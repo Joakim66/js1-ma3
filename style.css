@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #4D4D4D;
+}
+h2 {
+  font-size: 18px;
+}
+.gameInfo{
+  background: rgb(226, 226, 226);
+  margin-bottom: 10px;
+  padding: 4px 22px
+}
